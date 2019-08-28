@@ -12,11 +12,11 @@ using KSP.IO;
 using UnityEngine;
 
 
-namespace STAKX
+namespace STAXK
 {
 
     using ResourceRequestFunc = Func<Vessel, float, string, float>;
-    using DebugLevel = STAKXConfig.DebugLevel;
+    using DebugLevel = STAXKConfig.DebugLevel;
 
     public delegate void BackgroundUpdateResourceFunc(Vessel v, uint partFlightId, ResourceRequestFunc resourceFunc, ref System.Object data);
     public delegate void BackgroundUpdateFunc(Vessel v, uint partFlightId, ref System.Object data);
@@ -25,7 +25,7 @@ namespace STAKX
     public delegate void BackgroundLoadFunc(Vessel v, uint partFlightId, ref System.Object data);
 
     [KSPAddon(KSPAddon.Startup.MainMenu, true)]
-    public class STAKX : MonoBehaviour
+    public class STAXK : MonoBehaviour
     {
 
 
@@ -43,7 +43,7 @@ namespace STAKX
             }
         }
 
-        static public STAKXConfig config = null;
+        static public STAXKConfig config = null;
 
         public bool IsMostRecentAssembly()
         {
@@ -61,18 +61,18 @@ namespace STAKX
 
         public void LoadConfigFile()
         {
-            PluginConfiguration pc = PluginConfiguration.CreateForType<STAKX>();
+            PluginConfiguration pc = PluginConfiguration.CreateForType<STAXK>();
             if (pc == null) { return; }
 
             pc.load();
-            config = new STAKXConfig(pc);
+            config = new STAXKConfig(pc);
             pc.save();
         }
 
         public void Awake()
         {
             LoadConfigFile();
-            Debug("STAKX: Running assembly at " + Assembly.GetExecutingAssembly().Location + " (" + Assembly.GetExecutingAssembly().GetName().Version + ")", DebugLevel.WARNING);
+            Debug("STAXK: Running assembly at " + Assembly.GetExecutingAssembly().Location + " (" + Assembly.GetExecutingAssembly().GetName().Version + ")", DebugLevel.WARNING);
         }
 
         private void HandleResources(Vessel v)
@@ -87,16 +87,16 @@ namespace STAKX
     }
 
 
-} // STAKX
+} // STAXK
 
 /*{
 	"NAME" : "STatstical Analysis for Kerbal eXploration",
-	"URL"      : "https://raw.githubusercontent.com/zer0Kerbal/STAKX/master/GameData/STAKX/STAKX.version",
-	"DOWNLOAD" : "https://github.com/zer0Kerbal/STAKX/releases/latest",
+	"URL"      : "https://raw.githubusercontent.com/zer0Kerbal/STAXK/master/GameData/STAXK/STAXK.version",
+	"DOWNLOAD" : "https://github.com/zer0Kerbal/STAXK/releases/latest",
 	"GITHUB" :
 	{
 		"USERNAME" : "zer0Kerbal",
-		"REPOSITORY" : STAKX
+		"REPOSITORY" : STAXK
 		"ALLOW_PRE_RELEASE": false
 	},
 	"VERSION" : 

@@ -14,13 +14,13 @@ using System.Linq;
 using System.Reflection;
 using UnityEngine;
 
-namespace STAKX
+namespace STAXK
 {
     [KSPAddon(KSPAddon.Startup.MainMenu, true)]
     internal class InstallChecker : MonoBehaviour
     {
-        private const string MODNAME = "STAKX";
-        private const string FOLDERNAME = "STAKX";
+        private const string MODNAME = "STAXK";
+        private const string FOLDERNAME = "STAXK";
         private const string EXPECTEDPATH = FOLDERNAME + "/Plugins";
 
         protected void Start()

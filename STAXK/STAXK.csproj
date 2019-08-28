@@ -43,9 +43,6 @@
       <HintPath>..\..\..\..\Games\Career\KSP_x64_Data\Managed\KSPAssets.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="MonoDevelop.Projects.Formats.MSBuild">
-      <HintPath>..\..\..\..\Program Files\Unity\MonoDevelop\bin\MSBuild\4.0\MonoDevelop.Projects.Formats.MSBuild.exe</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -62,10 +59,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="STAKXConfig.cs" />
+    <Compile Include="STAXKConfig.cs" />
     <Compile Include="InstallChecker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="STAKX.cs" />
+    <Compile Include="STAXK.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="AssemblyVersion.tt">
@@ -82,7 +79,7 @@
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="STAKX.version" />
+    <None Include="STAXK.version" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

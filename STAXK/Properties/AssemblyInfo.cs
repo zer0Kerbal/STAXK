@@ -8,11 +8,11 @@ using UnityEngine;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("STAKX")]
+[assembly: AssemblyTitle("STAXK")]
 [assembly: AssemblyDescription("STatstical Analysis for Kerbal eXploration")]
 [assembly: AssemblyConfiguration("Debug")]
 [assembly: AssemblyCompany("KGEx")]
-[assembly: AssemblyProduct("STAKX")]
+[assembly: AssemblyProduct("STAXK")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("to boldly go where no Kerbal has gone before")]
