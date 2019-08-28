@@ -11,7 +11,9 @@ For those who want the information provided in the editors by *Kerbal Engineer R
 
 ![STAXK](https://i.postimg.cc/RCwDBnGM/image.png)
 
+Mod for Kerbal Space Program.
 
+This software is provided "as-is", without warranty of any kind. The author/maintainer assumes no obligation to provide maintenance, support, updates, enhancements, or modifications.
 
 #### Stated Design Principles:
 - KISS (Keep It Simply Simple)
