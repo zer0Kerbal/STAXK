@@ -20,5 +20,11 @@ For those who want the information provided in the editors by *Kerbal Engineer R
 
 > "*Elegance is often expressed in simplicity*" — Val
 
+> "I usually don't ask if it is possible, rather I hit it with a big enough hammer to make it work.  — Jeb
+
+> "they are already on a path to unavoidable, unmitigated doom; that it is not a matter of if, but when, they will crash in a way that would make Jeb gloriously feebleminded in envious, joyous awe..." — zer0Kerbal
+
+> donations now accepted through KerbalPal for :funds::rep::science:
+
 CC BY-NC-SA-4.0
 zer0Kerbal
