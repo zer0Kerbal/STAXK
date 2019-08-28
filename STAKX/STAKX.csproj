@@ -43,6 +43,9 @@
       <HintPath>..\..\..\..\Games\Career\KSP_x64_Data\Managed\KSPAssets.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="MonoDevelop.Projects.Formats.MSBuild">
+      <HintPath>..\..\..\..\Program Files\Unity\MonoDevelop\bin\MSBuild\4.0\MonoDevelop.Projects.Formats.MSBuild.exe</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -83,11 +86,8 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PreBuildEvent>set textTemplatingPath="%25CommonProgramFiles(x86)%25\Microsoft Shared\TextTemplating\$(VisualStudioVersion)\texttransform.exe"
-
-	if %25textTemplatingPath%25=="\Microsoft Shared\TextTemplating\$(VisualStudioVersion)\texttransform.exe" set textTemplatingPath="%25CommonProgramFiles%25\Microsoft Shared\TextTemplating\$(VisualStudioVersion)\texttransform.exe"
-
-	%25textTemplatingPath%25 "$(ProjectDir)AssemblyFileVersion.tt"</PreBuildEvent>
+    <PreBuildEvent>
+    </PreBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
     <PostBuildEvent>"C:\KSP_DEV\Workspace\pdb2mdb.exe" "$(TargetDir)$(TargetFileName)"
