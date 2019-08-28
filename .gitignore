@@ -42,3 +42,6 @@
 # images
 .psd
 *.cache
+STAKX/.vs/STAKX/v16/.suo
+*.ide-shm
+*.ide-wal
