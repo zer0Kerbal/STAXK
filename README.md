@@ -1,2 +1,2 @@
-# STAKX
- STatstical Analysis for Kerbal eXploration
+# STAXK
+ STatstical Analysis for eXploring Kerbal 
