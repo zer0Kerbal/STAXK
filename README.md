@@ -18,7 +18,7 @@ For those who want the information provided in the editors by *Kerbal Engineer R
 - Small footprint
 - Use Unity UI for smaller footprint, and ability to move windows out of game focus.
 
-> "Elegance is often expressed in simplicity" — Val
+> "*Elegance is often expressed in simplicity*" — Val
 
 CC BY-NC-SA-4.0
 zer0Kerbal
