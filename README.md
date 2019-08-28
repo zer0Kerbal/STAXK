@@ -24,7 +24,7 @@ For those who want the information provided in the editors by *Kerbal Engineer R
 
 > "they are already on a path to unavoidable, unmitigated doom; that it is not a matter of if, but when, they will crash in a way that would make Jeb gloriously feebleminded in envious, joyous awe..." — zer0Kerbal
 
-> donations now accepted through KerbalPal for :funds::rep::science: ![funds](https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/emoticons/Funds.png) ![rep](https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/emoticons/rep.png) ![science](https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/emoticons/science.png) 
+> donations now accepted through KerbalPal for: ![funds](https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/emoticons/Funds.png) ![rep](https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/emoticons/rep.png) ![science](https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/emoticons/science.png) 
 
 CC BY-NC-SA-4.0
 zer0Kerbal
