@@ -52,3 +52,7 @@ STAKX/obj/
 *.mdb
 *pdb
 images\
+STAXK/.vs/STAKX/v16/.suo
+STAXK/.vs/STAKX/v16/.suo
+*.lock
+*.ide

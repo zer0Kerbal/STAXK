@@ -8,17 +8,17 @@ using UnityEngine;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("STAXK")]
-[assembly: AssemblyDescription("STatstical Analysis for Kerbal eXploration")]
-[assembly: AssemblyConfiguration("Debug")]
+[assembly: AssemblyTitle("STAxK")]
+[assembly: AssemblyDescription("STatstical Analysis for eXplorative Kerbals")]
+[assembly: AssemblyConfiguration("Release")]
 [assembly: AssemblyCompany("KGEx")]
-[assembly: AssemblyProduct("STAXK")]
+[assembly: AssemblyProduct("STAxK")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("to boldly go where no Kerbal has gone before")]
 
-[assembly: Debuggable(DebuggableAttribute.DebuggingModes.DisableOptimizations | DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints)]
-[assembly: RuntimeCompatibility(WrapNonExceptionThrows = true)]
+//[assembly: Debuggable(DebuggableAttribute.DebuggingModes.DisableOptimizations | DebuggableAttribute.DebuggingModes.IgnoreSymbolStoreSequencePoints)]
+//[assembly: RuntimeCompatibility(WrapNonExceptionThrows = true)]
 // Version information for an assembly consists of the following four values:
 //
 //      Major Version

@@ -1,5 +1,6 @@
 ﻿using KSP.IO;
 using System;
+using UnityEngine;
 
 namespace STAXK {
 	public class STAXKConfig {
@@ -27,4 +28,15 @@ namespace STAXK {
             testconfig2 = config.GetValue<bool>("testconfig2", true);
 		}
 	}
+}
+namespace HelloWorld
+{
+    [KSPAddon(KSPAddon.Startup.MainMenu, false)]
+    public class Hello : MonoBehaviour
+    {
+        public void Update()
+        {
+            Debug.Log("Hello world! " + Time.realtimeSinceStartup);
+        }
+    }
 }

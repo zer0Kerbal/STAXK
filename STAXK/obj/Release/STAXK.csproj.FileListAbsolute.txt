@@ -1,0 +1,6 @@
+C:\KSP_DEV\Workspace\STAXK\STAXK\bin\Release\STAKX.dll
+C:\KSP_DEV\Workspace\STAXK\STAXK\bin\Release\STAKX.pdb
+C:\KSP_DEV\Workspace\STAXK\STAXK\obj\Release\STAXK.csprojAssemblyReference.cache
+C:\KSP_DEV\Workspace\STAXK\STAXK\obj\Release\STAXK.csproj.CoreCompileInputs.cache
+C:\KSP_DEV\Workspace\STAXK\STAXK\obj\Release\STAKX.dll
+C:\KSP_DEV\Workspace\STAXK\STAXK\obj\Release\STAKX.pdb
