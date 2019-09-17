@@ -46,3 +46,9 @@ STAKX/.vs/STAKX/v16/.suo
 *.ide-shm
 *.ide-wal
 STAKX/.vs/STAKX/v16/.suo
+STAKX/.vs/
+STAKX/bin/
+STAKX/obj/
+*.mdb
+*pdb
+images\
