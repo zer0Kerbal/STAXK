@@ -28,5 +28,5 @@ This software is provided "as-is", without warranty of any kind. The author/main
 
 > donations now accepted through KerbalPal for: ![funds](https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/emoticons/Funds.png) ![rep](https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/emoticons/rep.png) ![science](https://s3.us-west-2.amazonaws.com/kerbal-forum-uploads/emoticons/science.png) 
 
-CC BY-NC-SA-4.0
+license undecided yet but `STAXK` and `***ST***atstical ***A***nalysis for e***X***ploring ***K***erbals` are trademark ™ copyright ™ by zer0Kerbal™©
 zer0Kerbal
